@@ -1,8 +1,8 @@
 # Next.js and Supabase Starter Kit
 
-<p align="center">
+<p>
   <a href="#deploy-to-vercel"><strong>Deploy to Vercel</strong></a> ·
-  <a href="#clone-and-run-locally"><strong>Clone and run locally</strong></a> ·
+  <a href="#clone-and-run-locally"><strong>Clone and run locally</strong></a>
 </p>
 <br/>
 
@@ -47,7 +47,7 @@ After installation of the Supabase integration, all relevant environment variabl
    bun dev
    ```
 
-   The template should now be running on [localhost:3000](http://localhost:3000/) and allow you to create and delete users.
+   The template should now be running on [localhost:3000](http://localhost:3000/) and allow you to authenticate users with sign up and sign in.
 
 6. This template comes with the default shadcn/ui style initialized. If you instead want other ui.shadcn styles, delete `components.json` and [re-install shadcn/ui](https://ui.shadcn.com/docs/installation/next)
 
